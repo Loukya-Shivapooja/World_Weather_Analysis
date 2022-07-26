@@ -20,5 +20,3 @@ Using customer weather preferences, potential travel destinations were identifie
 ### Create a Travel Itinerary Map
 Using Google Directions API a travel route was created to display positional coordinate between four cities chosen by the customer.
 <img width="1440" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/107584361/181121355-b73e613d-78c0-4080-b56e-930b9f9fb1ae.png">
-
-## Summary
